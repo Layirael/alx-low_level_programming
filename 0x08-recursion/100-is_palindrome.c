@@ -22,9 +22,9 @@ int _strlen_recursion(char *s)
  * Return: boolean
  */
 
-int pali(char *s, int i
+int pali(char *s, int i)
 {
-	if (i < 1)
+	if (i < i)
 	{
 		return (1);
 	}
@@ -37,7 +37,7 @@ int pali(char *s, int i
 }
 
 /**
- * is_palindrome - palindrome
+ * is_palindrome - palindrom
  * @s: pointer to string
  * Return: recursion
  */
